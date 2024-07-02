@@ -30,6 +30,8 @@ button {
   font-variant: small-caps;
   color: antiquewhite;
 }
+.left:hover{background-color:yellow;
+            border-radius:50%;}
 .nav-list {
   display: flex;
   flex-direction: row;
